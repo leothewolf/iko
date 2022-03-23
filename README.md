@@ -51,7 +51,12 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 <br>
 
 * -tchannel
-> tchannel command can be used in any channel to reset Ticket System channel
+> tchannel command can be used in any channel to reset Ticket System channel<br><br>Just type following command to change Ticket System channel<br><br>```-tchannel new_channe_id```
+
+<br>
+
+* -timg
+> timg command is used to change the image of Ticket System embed<br><br>How to use -timg command?<br><br>To just assign new image type:<br><br>```-timg new_image_link ```<br><br>To remove image without assigning any new image type:<br><br>```-timg remove```
 
 # Verification System
 
