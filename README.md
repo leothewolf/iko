@@ -38,6 +38,11 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 * -trole
 > trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole current_support_role new_support_role```<br><br>[The role assigned and the role removed should only be one word. Ex: 'supporter' and not 'supporter blah blah']
 
+<br>
+
+* -tnotify
+> tnotify is used to change notification settings for notification on ticket close and ticket open<br><br>For ticket open the users are tagged in the ticket thus formed but for closing the users are notified via PMs<br><br>How to use tnotify command?<br>So basically we have three arguments we can enter here that are none, author and all<br><br>So for example if you wanna notify everyone of opening but just the author[the one who opened ticket] about closing [this are default settings] the command will be:<br>```-tnotify all author```<br><br>For notifying everyone about ticket opening and closing command will be:<br><br>```-tnotify all all```<br><br>And same goes for notifying noone: <br><br> ```-tnotify none none```
+
 # Verification System
 
 ### Private Chat Based Verification System's Commands
