@@ -36,7 +36,7 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 <br>
 
 * -trole
-> trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole current_support_role new_support_role```<br><br>[The role assigned and the role removed should only be one word. Ex: 'supporter' and 'supporter blah blah']
+> trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole current_support_role new_support_role```<br><br>[The role assigned and the role removed should only be one word. Ex: 'supporter' and not 'supporter blah blah']
 
 # Verification System
 
