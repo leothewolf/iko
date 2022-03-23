@@ -22,7 +22,7 @@ test
 **Private Chat Based Verification System's Commands**
 
 
--vend : this command when used in private clears all the previous verification requests done by user
+- -vend : this command when used in private clears all the previous verification requests done by user
 		Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it 	  to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
 
 
