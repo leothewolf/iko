@@ -18,6 +18,18 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 * -tstart
 > tstart command is used to start Ticket System for that server<br><br>How to use -tstart command?<br>Choose a channel in your server from where tickets will be created and from where the ticket system can be managed, let the name of channel be 'create-tickets' [can be any]. Next for setting up Ticket System<br><br>If you want to setup Ticket System which has embed without image just type:<br><br>```-tstart support_role```<br><br>If you want to setup Verification System which has embed with image just type:<br><br>```-tstart support_role -i image_link```
 
+* -tclose
+> tclose command is used when you want to close the ticket
+
+* -tstop
+> tstop command is used to stop Ticket System and delete it from the server. Deletes the created tickets too
+
+* -tstatus
+> tstatus command is used to get the current status of Ticket System
+
+* -trole
+> trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole current_support_role new_support_role```<br><br>[The role assigned and the role removed should only be one word. Ex: 'supporter' and 'supporter blah blah']
+
 # Verification System
 
 ### Private Chat Based Verification System's Commands
