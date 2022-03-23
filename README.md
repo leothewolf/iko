@@ -43,6 +43,11 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 * -tnotify
 > tnotify is used to change notification settings for notification on ticket close and ticket open<br><br>For ticket open the users are tagged in the ticket thus formed but for closing the users are notified via PMs<br><br>How to use tnotify command?<br>So basically we have three arguments we can enter here that are none, author and all<br><br>So for example if you wanna notify everyone of opening but just the author[the one who opened ticket] about closing [this are default settings] the command will be:<br>```-tnotify all author```<br><br>For notifying everyone about ticket opening and closing command will be:<br><br>```-tnotify all all```<br><br>And same goes for notifying noone: <br><br> ```-tnotify none none```
 
+<br>
+
+* -tdel
+> this command can be used in Ticket System channel to delete all the tickets which are open
+
 # Verification System
 
 ### Private Chat Based Verification System's Commands
