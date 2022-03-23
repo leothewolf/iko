@@ -36,11 +36,13 @@ test
 
 - -vstart : this command when used in server is use to start Verification System for that server
 
-		<p>How to exactly use this command?
+		<p>How to exactly use this command?</p>
 
-		Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.
+		<p>Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which</p> <p>user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private </p> 
+		<p>which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone </p>
+		<p>and make 'get-verified' channel private and add role 'unverified' to it.</p>
 
-		Next, navigate to get-verified channel to setup the bot.</p>
+		<p>Next, navigate to get-verified channel to setup the bot.</p>
 
 		<p>If you want to setup Verification System which has embed without image just type:</p>
 		```
@@ -65,9 +67,9 @@ test
 - -vrole : this command is used to change the current role assigned when the user is verified. 
 		<p>[P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot**]</p>
 
-		<p>How to use -vrole command?
+		<p>How to use -vrole command?</p>
 
-		Just type the following command to change current role assigned:</p>
+		<p>Just type the following command to change current role assigned:</p>
 		```
 		-vrole new_verified_role
 		```
@@ -75,9 +77,9 @@ test
 
 - -vimg : this command is used to change the image of Verification System embed
 
-		<p>How to use -vimg command?
+		<p>How to use -vimg command?</p>
 
-		To just assign new image type:</p>
+		<p>To just assign new image type:</p>
 		```
 		-vimg new_image_link
 		```
