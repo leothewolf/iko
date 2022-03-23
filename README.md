@@ -29,10 +29,7 @@ test
 ### Server Based Verification System's Commands
 
 * -vstart
-> vstart command when used in server is use to start Verification System for that server<br><br>How to exactly use this command?<br>Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.<br><br>Next, navigate to get-verified channel to setup the bot.<br><br>If you want to setup Verification System which has embed without image just type:<br>```-vstart verified_role```
- ⠀
-If you want to setup Verification System which has embed with image just type:
- ```-vstart verified_role -i image_link```
+> vstart command when used in server is use to start Verification System for that server<br><br>How to exactly use this command?<br>Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.<br><br>Next, navigate to get-verified channel to setup the bot.<br><br>If you want to setup Verification System which has embed without image just type:<br><br>```-vstart verified_role```<br><br>If you want to setup Verification System which has embed with image just type:<br><br>```-vstart verified_role -i image_link```
 
  ⠀
 * -vget : this command when used in server, fetches back the Verification System embed
@@ -48,22 +45,8 @@ If you want to setup Verification System which has embed with image just type:
 
  ⠀
 * -vrole
-> vrole command is used to change the current role assigned when the user is verified
- ⠀
-P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot**
- ⠀
-How to use -vrole command?
- ⠀
-Just type the following command to change current role assigned:
- ```-vrole new_verified_role```
+> vrole command is used to change the current role assigned when the user is verified<br><br>P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot**<br><br>How to use -vrole command?<br><br>Just type the following command to change current role assigned:<br><br>```-vrole new_verified_role```
 
  ⠀
 * -vimg
-> vimg command is used to change the image of Verification System embed
-	How to use -vimg command?
- ⠀
- To just assign new image type:
-  ```-vimg new_image_link ```
- ⠀
-To remove image without assigning any new type:
-  ```-vimg remove```
+> vimg command is used to change the image of Verification System embed<br><br>How to use -vimg command?<br><br>To just assign new image type:<br><br>```-vimg new_image_link ```<br><br>To remove image without assigning any new type:<br><br>```-vimg remove```
