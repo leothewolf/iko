@@ -17,16 +17,16 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 
 * -tstart
 > tstart command is used to start Ticket System for that server<br><br>How to use -tstart command?<br>Choose a channel in your server from where tickets will be created and from where the ticket system can be managed, let the name of channel be 'create-tickets' [can be any]. Next for setting up Ticket System<br><br>If you want to setup Ticket System which has embed without image just type:<br><br>```-tstart support_role```<br><br>If you want to setup Verification System which has embed with image just type:<br><br>```-tstart support_role -i image_link```
-
+<br>
 * -tclose
 > tclose command is used when you want to close the ticket
-
+<br>
 * -tstop
 > tstop command is used to stop Ticket System and delete it from the server. Deletes the created tickets too
-
+<br>
 * -tstatus
 > tstatus command is used to get the current status of Ticket System
-
+<br>
 * -trole
 > trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole current_support_role new_support_role```<br><br>[The role assigned and the role removed should only be one word. Ex: 'supporter' and 'supporter blah blah']
 
@@ -35,7 +35,7 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 ### Private Chat Based Verification System's Commands
 * -vend
 > vend command is used in private chat and it clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
-   
+ <br>  
  * -vnew
  > vnew command is used in private chat and it fetches new captcha<br><br>P.S. Users only have three(3) trials to get verified and requesting a new captcha uses one of those trials
 
