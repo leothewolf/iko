@@ -34,7 +34,7 @@ P.S. Users only have three(3) trials to get verified and requesting a new captch
 > vstart command when used in server is use to start Verification System for that server
 ⠀
 How to exactly use this command?
-Before setting up Verification System you need to make two roles : 		'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.
+Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.
 ⠀
 Next, navigate to get-verified channel to setup the bot.
 ⠀
@@ -60,7 +60,7 @@ If you want to setup Verification System which has embed with image just type:
 * -vrole
 > vrole command is used to change the current role assigned when the user is verified
  ⠀
-[P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot**]
+P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot**
  ⠀
 How to use -vrole command?
  ⠀
