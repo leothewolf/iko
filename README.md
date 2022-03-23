@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/leothewolf/iko/main/git.png" alt="Iko Discord Bot">
+  <img src="https://raw.githubusercontent.com/leothewolf/iko/main/logo.png" alt="Iko Discord Bot">
   <br>
   Iko Discord Bot
   <br>
