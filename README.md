@@ -46,7 +46,12 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 <br>
 
 * -tdel
-> this command can be used in Ticket System channel to delete all the tickets which are open
+> tdel command can be used in Ticket System channel to delete all the tickets which are open
+
+<br>
+
+* -tchannel
+> tchannel command can be used in any channel to reset Ticket System channel
 
 # Verification System
 
