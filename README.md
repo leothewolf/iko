@@ -11,13 +11,11 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 
 **Some of it's features:**
 - <a href="#Ticket System">Ticket System</a>
-- <a href="#Verification System">Ticket System</a>
+- <a href="#Verification System">Verification System</a>
 
 # Ticket System
 
 test
-
-# Verification System
 
 # Verification System
 
