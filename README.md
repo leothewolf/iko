@@ -21,10 +21,10 @@ test
 
 ### Private Chat Based Verification System's Commands
 * -vend
-> vend command when used in private clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
+> vend command is used in private chat and it clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
    
  * -vnew
- > vnew command when used in private fetches new captcha<br><br>P.S. Users only have three(3) trials to get verified and requesting a new captcha uses one of those trials
+ > vnew command is used in private chat and it fetches new captcha<br><br>P.S. Users only have three(3) trials to get verified and requesting a new captcha uses one of those trials
 
 ### Server Based Verification System's Commands
 
