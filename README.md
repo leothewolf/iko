@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/leothewolf/iko/main/logo_for_git.png" alt="Iko Discord Bot">
   <br>
-  <p style="font-size:40px;"><strong>Iko bot</strong></p>
+  <p style="font-size:40px"><strong>Iko bot</strong></p>
   <br>
 </div>
 
