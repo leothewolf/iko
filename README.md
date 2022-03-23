@@ -58,6 +58,8 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 * -timg
 > timg command is used to change the image of Ticket System embed<br><br>How to use -timg command?<br><br>To just assign new image type:<br><br>```-timg new_image_link ```<br><br>To remove image without assigning any new image type:<br><br>```-timg remove```
 
+<br>
+
 # Verification System
 
 ### Private Chat Based Verification System's Commands
