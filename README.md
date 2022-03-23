@@ -21,7 +21,7 @@ test
 
 ### Private Chat Based Verification System's Commands
 * -vend
-> vend command when used in private clears all the previous verification requests done by user<br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
+> vend command when used in private clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
    
  * -vnew
  > vnew command when used in private fetches new captcha<br>P.S. Users only have three(3) trials to get verified and requesting a new captcha uses one of those trials
@@ -29,7 +29,7 @@ test
 ### Server Based Verification System's Commands
 
 * -vstart
-> vstart command when used in server is use to start Verification System for that server<br>How to exactly use this command?<br>Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.<br>Next, navigate to get-verified channel to setup the bot.<br>If you want to setup Verification System which has embed without image just type:<br>```-vstart verified_role```
+> vstart command when used in server is use to start Verification System for that server<br><br>How to exactly use this command?<br>Before setting up Verification System you need to make two roles : 'verified' and 'unverified' and you can also make two channels 'rules' [which user will see on joining server] and 'get-verified' for the verification. **Assign both roles to the bot**. Next make the categories private which you wanna just allow verified people to view by making it private and adding role 'verified' to it. Keep 'rules' channel open to everyone and make 'get-verified' channel private and add role 'unverified' to it.<br><br>Next, navigate to get-verified channel to setup the bot.<br><br>If you want to setup Verification System which has embed without image just type:<br>```-vstart verified_role```
  ⠀
 If you want to setup Verification System which has embed with image just type:
  ```-vstart verified_role -i image_link```
