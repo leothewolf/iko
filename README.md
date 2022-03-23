@@ -15,7 +15,8 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 
 # Ticket System
 
-test
+* -tstart
+> tstart command is used to start Ticket System for that server<br><br>How to use -tstart command?<br>Choose a channel in your server from where tickets will be created and from where the ticket system can be managed, let the name of channel be 'create-tickets' [can be any]. Next for setting up Ticket System<br><br>If you want to setup Ticket System which has embed without image just type:<br>```-tstart support_role```<br>If you want to setup Verification System which has embed with image just type:<br>```-tstart support_role -i image_link```
 
 # Verification System
 
