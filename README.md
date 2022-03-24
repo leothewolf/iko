@@ -26,6 +26,8 @@
   + Unverified role assigned on server joining automatically by the bot
   + Verified role assigned on getting verified
 
+<br>
+
 ## 🛡️ How secure is our bot?
 Umm let's breakdown this question in terms of the systems our bot has...
 - Ticket System
@@ -39,6 +41,7 @@ Umm let's breakdown this question in terms of the systems our bot has...
 > "Ninety-nine percent of all failures come from irresponsible use of the permissions granted."
 We as a bot developer asked you to grant permissions to our bot over your prestigious server, in that case we don't want any misuse of the permissions granted so to prevent that and for better security we have kept most of the commands for user with administrator privileges.
 
+<br>
 
 ## ❓ How and where are the provided permissions used?
 
@@ -51,6 +54,8 @@ We as a bot developer asked you to grant permissions to our bot over your presti
 - Read Messages/View Channels Permission : This permission is needed for bot to view the channels and messages so the bot can detect it's commands
 - Manage roles Permission : To add 'verified' and 'unverified' roles for Verification System
 - Manage Channels : To create ticket's channel
+
+<br>
 
 ## 🔗 Links
 
