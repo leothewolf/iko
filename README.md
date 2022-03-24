@@ -11,7 +11,7 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 
 **Our Bots Top Systems**
 + 🎫 <a href="https://github.com/leothewolf/iko/blob/main/ticket_system.md">Ticket System</a>
-++ Auto deleteion of tickets on 24 hours inactivity
+** Auto deleteion of tickets on 24 hours inactivity
 ++ 
 + 🛡️ <a href="https://github.com/leothewolf/iko/blob/main/verification_system.md">Verification System</a>
 
