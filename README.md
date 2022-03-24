@@ -9,7 +9,7 @@
 
 **Some Notable Feature**
 + 🎫 <a href="https://github.com/leothewolf/iko/blob/main/ticket_system.md">Ticket System</a>
-  + Auto deleteion of tickets on 24 hours inactivity
+  + Auto delete on of tickets on 24 hours inactivity
   + Create as many as tickets as you want
   + Perfectly built notification system with all capabilities to manage it any way you want
   + Capability to attach images with tickets embed
