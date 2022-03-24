@@ -6,14 +6,17 @@
 
 # <p align="center">Iko Bot</p> 
 
-## Overview
+## 🔎 Overview
 Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you don't need to have multiple bots!
 
 **Some of it's notable features:**
 - <a href="https://github.com/leothewolf/iko/blob/main/ticket_system.md">Ticket System</a>
 - <a href="https://github.com/leothewolf/iko/blob/main/verification_system.md">Verification System</a>
 
-## How and where are the provided permissions used?
+## 🛡️ How secure is our bot?
+
+
+## ❓ How and where are the provided permissions used?
 
 - Send Messages Permission : To send messages for the purpose of opening/closing of tickets and also to send ticket/verification system embeds
 - Manage Messages Permission : This permission is used to remove the bots embed which are not of any use. Ex: After starting of verification system the yes/no embed prompted is of no use so it's deleted by the bot.
@@ -25,7 +28,7 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
 - Manage roles Permission : To add 'verified' and 'unverified' roles for Verification System
 - Manage Channels : To create ticket's channel
 
-## Links
+## 🔗 Links
 
 Privacy Policy : https://github.com/leothewolf/iko/blob/main/privacy_policy.md
 
