@@ -6,7 +6,7 @@
 <br>
 
 * -tstart
-> tstart command is used to start Ticket System for that server<br><br>How to use -tstart command?<br>Choose a channel in your server from where tickets will be created and from where the ticket system can be managed, let the name of channel be 'create-tickets' [can be any]. Next for setting up Ticket System<br><br> **Note** : You need to mention the role name and not the role itself!<br><br>If you want to setup Ticket System which has embed without image just type:<br><br>```-tstart support_role```<br><br>If you want to setup Verification System which has embed with image just type:<br><br>```-tstart support_role -i image_link```<br><br>**Note :** If the support role has more than one word examples it's name 'supporter role' then just type this command: <br><br>```-tstart supporter role -i image_link```
+> tstart command is used to start Ticket System for that server<br><br>How to use -tstart command?<br>Choose a channel in your server from where tickets will be created and from where the ticket system can be managed, let the name of channel be 'create-tickets' [can be any]. Next for setting up Ticket System<br><br> **Note : You need to mention the role name and not the role itself!**<br><br>If you want to setup Ticket System which has embed without image just type:<br><br>```-tstart support_role```<br><br>If you want to setup Verification System which has embed with image just type:<br><br>```-tstart support_role -i image_link```<br><br>**Note :** If the support role has more than one word examples it's name 'supporter role' then just type this command: <br><br>```-tstart supporter role -i image_link```
 
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 
 * -trole
-> trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up [If you don't remember that just type -tstatus to get it]<br><br>To change the role run the following command<br><br>```-trole new_support_role```
+> trole command is used to change the currently assigned support role<br><br>To use this command first navigate to the ticket channel or the main channel from where ticket system was set up (If you don't remember that just type -tstatus to get it)<br><br>To change the role run the following command<br><br>```-trole new_support_role```<br><br>**Note : You don't need to tag the role, you just need to type the name of the role**
 
 <br>
 
