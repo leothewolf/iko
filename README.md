@@ -18,7 +18,9 @@ Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you d
   + One ticket per user
   + Support role tagged on opening of ticket (Unless turned off from notification settings)
   + Github inspired status system
+
 <br>
+
 + 🛡️ <a href="https://github.com/leothewolf/iko/blob/main/verification_system.md">Verification System</a>
   + Auto generation of captcha by the bot
   + Three trials allowed per 10 mins to prevent missuse
