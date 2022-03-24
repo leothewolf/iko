@@ -1,4 +1,8 @@
 # Verification System
+<br>
+
+> **Note :** Please check [here](https://github.com/leothewolf/iko#%EF%B8%8F-how-secure-is-our-bot) for the permissions needed for executing the commands. 
+<br>
 
 ### Private Chat Based Verification System's Commands
 * -vend
