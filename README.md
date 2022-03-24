@@ -4,10 +4,8 @@
   <br>
 </div>
 
-# <p align="center">Iko Bot</p> 
-
 ## 🔎 Overview
-Iko is a multipurpose discord bot. Our aim is to provide all in one bot so you don't need to have multiple bots!
+**Iko** is a multipurpose discord bot. Our aim is to provide all in one bot so you don't need to have multiple bots!
 
 **Some Notable Feature**
 + 🎫 <a href="https://github.com/leothewolf/iko/blob/main/ticket_system.md">Ticket System</a>
