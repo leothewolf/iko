@@ -27,6 +27,17 @@
   + Verified role assigned on getting verified
 
 ## 🛡️ How secure is our bot?
+Umm let's breakdown this question in terms of the systems our bot has...
+- Ticket System
+  - All the commands except '-tclose' require administrator permission by the user to get executed and '-tclose' can also be used by the user or the supporter role to close the ticket and not in any other channels of the server, this has been done so to close the ticket manually
+
+- Verification System
+  - The private commands to clear personal logs and to ask for new captcha are allowed for user to execute without any permissions in private chat with the bot
+  - All the server based commands require user to have administrator privileges to execute the commands
+
+🤔 **Why have we only allowed user with administrator privileges to execute most of the commands rather breaking down the stuff and allowing staff to execute them?**
+> "Ninety-nine percent of all failures come from irresponsible use of the permissions granted."
+We as a bot developer asked you to grant permissions to our bot over your prestigious server, in that case we don't want any misuse of the permissions granted so to prevent that and for better security we have kept most of the commands for user with administrator privileges.
 
 
 ## ❓ How and where are the provided permissions used?
