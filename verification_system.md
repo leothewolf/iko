@@ -30,7 +30,7 @@
 
  ⠀
 * -vrole
-> vrole command is used to change the current role assigned when the user is verified<br><br>P.S. **This is not recommended and even if you change it don't forget to assign the same role to bot and yea don't tag the role you just need to type the role name**<br><br>How to use -vrole command?<br><br>Just type the following command to change current role assigned:<br><br>```-vrole new_verified_role```
+> vrole command is used to change the current role assigned when the user is verified<br><br>**Note: This is not recommended and even if you change it don't forget to assign the same role to bot and yea don't tag the role you just need to type the role name**<br><br>How to use -vrole command?<br><br>Just type the following command to change current role assigned:<br><br>```-vrole new_verified_role```
 
  ⠀
 * -vimg
