@@ -35,6 +35,9 @@
   + NSFW gif commands
   + Git inspired status system
 
++ Pickup lines
+  + Just type '-pick' to fetch a pickup line
+
 ## 🛡️ How secure is our bot?
 Umm let's breakdown this question in terms of the systems our bot has...
 - Ticket System
