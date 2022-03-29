@@ -15,7 +15,7 @@
   + Capability to attach images with tickets embed
   + One ticket per user
   + Support role tagged on opening of ticket (Unless turned off from notification settings)
-  + Github inspired status system
+  + Git inspired status system
 
 <br>
 
@@ -25,8 +25,15 @@
   + User can fetch new captcha if current one is not visible
   + Unverified role assigned on server joining automatically by the bot
   + Verified role assigned on getting verified
+  + Git inspired status system
 
 <br>
+
++ 🖼️ <a href="https://github.com/leothewolf/iko/blob/main/gif_system.md">Gif System</a>
+  + Start/stop gif system
+  + SFW Gif commands
+  + NSFW Gif commands
+  + Git inspired status system
 
 ## 🛡️ How secure is our bot?
 Umm let's breakdown this question in terms of the systems our bot has...
