@@ -5,6 +5,12 @@
 > **Note :** Please check [here](https://github.com/leothewolf/iko#%EF%B8%8F-how-secure-is-our-bot) for the permissions needed for executing the commands. 
 <br>
 
+## Contents
+* <a href = "#starting-gif-system">Starting gif system</a>
+* <a href = "#stopping-gif-system">Stopping gif system</a>
+* <a href = "#sfw-commands">SFW Commands</a>
+* <a href = "#nsfw-commands">NSFW Commands</a>
+
 ## Starting gif system
 
 ### For starting SFW gif system :
