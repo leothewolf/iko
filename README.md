@@ -31,8 +31,8 @@
 
 + 🖼️ <a href="https://github.com/leothewolf/iko/blob/main/gif_system.md">Gif System</a>
   + Start/stop gif system
-  + SFW Gif commands
-  + NSFW Gif commands
+  + SFW gif commands
+  + NSFW gif commands
   + Git inspired status system
 
 ## 🛡️ How secure is our bot?
