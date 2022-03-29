@@ -7,25 +7,25 @@
 
 ## Starting gif system
 
-### For starting NSFW gif system :
-> **Note :** NSFW gifs will only be served in NSFW channel <br><br> To start NSFW gif system type : <br> ```-gnstart```
-
-<br>
-
 ### For starting SFW gif system :
 > To start SFW gif system type : <br> ```-gsstart```
 
 <br>
 
-## Stopping gif system
-
-### For stopping NSFW gif system :
-> To stop NSFW gif system type : <br> ```-gnstop```
+### For starting NSFW gif system :
+> **Note :** NSFW gifs will only be served in NSFW channel <br><br> To start NSFW gif system type : <br> ```-gnstart```
 
 <br>
 
+## Stopping gif system
+
 ### For stopping SFW gif system :
 > To stop SFW gif system type : <br> ```-gsstop```
+
+<br>
+
+### For stopping NSFW gif system :
+> To stop NSFW gif system type : <br> ```-gnstop```
 
 <br>
 
