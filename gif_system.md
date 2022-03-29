@@ -11,6 +11,8 @@
 * <a href = "#sfw-commands">SFW Commands</a>
 * <a href = "#nsfw-commands">NSFW Commands</a>
 
+<br>
+
 ## Starting gif system
 
 ### For starting SFW gif system :
