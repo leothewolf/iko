@@ -34,10 +34,17 @@
   + SFW gif commands
   + NSFW gif commands
   + Git inspired status system
+  
+<br>
 
-+ Pickup lines
-  + Just type '-pick' to fetch a pickup line for yourself
-  + If you want to say it for someone else just type '-pick @mention'<br>**(You can mention as many as people you want! No need to add commas or spaces)**
++ Text Based Commands
+  + Pickup lines
+    + Just type '-pick' to fetch a pickup line for yourself
+    + If you want to say it for someone else just type '-pick @mention'<br>**(You can mention as many as people you want! No need to add commas or spaces)**
+    <br>
+  + Degrade lines (NSFW Command)
+    + Just type '-deg' to fetch a degrading line for yourself
+    + If you want to say it for someone else just type '-deg @mention'<br>**(You can mention as many as people you want! No need to add commas or spaces)**
 
 ## 🛡️ How secure is our bot?
 Umm let's breakdown this question in terms of the systems our bot has...
