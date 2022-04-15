@@ -41,4 +41,13 @@ Let me take an example, let's say you have like 20 servers and you daily post a 
 
 <br>
 
-+ ```-bstatus``` : to get all the servers associated with an agent (You need to be an agent for this)
++ ```-bdetails``` : to get all the servers associated with an agent (You need to be an agent for this)
+
+<br>
+
++ ```-bstatus``` : can be used by admin to see if bump system is running in a channel
+
+<br>
+
++ ```-bchannel``` : to remove a sub channel of an agent (this can be only used by an agent and only to remove a sub channel associated to him/her)
+> How to run -bchannel command? <br><br> Just type following command in you main bump channel : <br> ```-bchannel -c channel_id``` <br><br> (Channel id of the channel the agent wants to remove)
