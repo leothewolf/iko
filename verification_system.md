@@ -2,6 +2,7 @@
 <br>
 
 > **Note :** Please check [here](https://github.com/leothewolf/iko#%EF%B8%8F-how-secure-is-our-bot) for the permissions needed for executing the commands. 
+
 <br>
 
 ### Some confusing words
@@ -13,7 +14,9 @@
 ### Private Chat Based Verification System's Commands
 * -vend
 > vend command is used in private chat and it clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
- <br>  
+ 
+ <br>
+ 
  * -vnew
  > vnew command is used in private chat and it fetches new captcha<br><br>P.S. Users only have three(3) trials to get verified and requesting a new captcha uses one of those trials
 
