@@ -48,6 +48,8 @@ Umm let's breakdown this question in terms of the systems our bot has...
   - The private commands to clear personal logs and to ask for new captcha are allowed for user to execute without any permissions in private chat with the bot
   - All the server based commands require user to have administrator privileges to execute the commands
 
+<br>
+
 🤔 **Why have we only allowed user with administrator privileges to execute most of the commands rather breaking down the stuff and allowing staff to execute them?**
 > "Ninety-nine percent of all failures come from irresponsible use of the permissions granted."
 We as a bot developer asked you to grant permissions to our bot over your prestigious server, in that case we don't want any misuse of the permissions granted so to prevent that and for better security we have kept most of the commands for user with administrator privileges.
