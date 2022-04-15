@@ -37,6 +37,13 @@
   
 <br>
 
++ 💬 <a href="https://github.com/leothewolf/iko/blob/main/bump_system.md">Bump System</a>
+  + Multiple channels/server posting just from one channel
+  + Agent id based system
+  + Multiline and quoted message support
+
+<br>
+
 + Text Based Commands
   + Pickup lines
     + Just type '-pick' to fetch a pickup line for yourself
