@@ -8,8 +8,6 @@
 + Verified role : This will be the role alloted when user is verified by the bot
 + Unverified role : This will be the role alloted when the user joins the server and removed after verification
 
-<br>
-
 ### Private Chat Based Verification System's Commands
 * -vend
 > vend command is used in private chat and it clears all the previous verification requests done by user<br><br>Example: If a user tried to verify himself from a server A but wants to instead get verified for server B then he should type -vend in private to the bot for it to remove the trace of verification requests for the user from server A and then click 'Verify me' in server B to get verified.
