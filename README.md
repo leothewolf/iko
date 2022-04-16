@@ -44,7 +44,7 @@
 
 <br>
 
-+ Text Based Commands
++ 📃 Text Based Commands
   + Pickup lines
     + Just type '-pick' to fetch a pickup line for yourself
     + If you want to say it for someone else just type '-pick @mention'<br>**(You can mention as many as people you want! No need to add commas or spaces)**
