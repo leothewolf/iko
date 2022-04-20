@@ -21,7 +21,7 @@ Let me take an example, let's say you have like 20 servers and you daily post a 
 
 ### How to use?
 
-1) First choose a bump channel or a channel from where your post will be posted to other channels. Type in it ```-bagent```
+1) First choose a bump channel or a channel from where your post will be posted to other channels. Type in it ```-bagent```. The bot will reply to you saying ```You have been registered as bump agent. Your id is 'some_id'. Anything you post in this channel will be bumped to the channels linked with your agent id.``` If the bot didn't reply this it means it either has not been given permission to view that channel or is not having permission to message in that channel.
 
 2) Once you type ```-bagent``` the bot will give you a unique agent id copy it. Next navigate to a sub channel or the channel on other channel where you wanna post from the main bump channel
 
