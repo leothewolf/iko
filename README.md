@@ -34,7 +34,15 @@
   + SFW gif commands
   + NSFW gif commands
   + Git inspired status system
-  
+
+<br>
+
++ 👋 <a href="https://github.com/leothewolf/iko/blob/main/welcome_system.md">Welcome System</a>
+  + Start/stop welcome system
+  + Add image and custom text to welcome message
+  + Change welcome channel
+  + Git inspired status system
+
 <br>
 
 + 💬 <a href="https://github.com/leothewolf/iko/blob/main/bump_system.md">Bump System</a>
