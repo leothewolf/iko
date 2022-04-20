@@ -78,7 +78,7 @@ Umm let's breakdown this question in terms of the systems our bot has...
   - All commands can only be used by an admin
 
 - Bump System
- - All commands can only be used by an admin
+  - All commands can only be used by an admin
 
 - Text Based Commands
   - All commands can be used by normal users
