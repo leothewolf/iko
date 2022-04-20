@@ -70,6 +70,19 @@ Umm let's breakdown this question in terms of the systems our bot has...
   - The private commands to clear personal logs and to ask for new captcha are allowed for user to execute without any permissions in private chat with the bot
   - All the server based commands require user to have administrator privileges to execute the commands
 
+- Gif System
+  - All commands except -gstatus,-gnstart,-gnstop,-gsstart and -gsstop can be runned by a normal users!
+  - This commands include -dab,-punch,etc.
+
+- Welcome System
+  - All commands can only be used by an admin
+
+- Bump System
+ - All commands can only be used by an admin
+
+- Text Based Commands
+  - All commands can be used by normal users
+
 <br>
 
 🤔 **Why have we only allowed user with administrator privileges to execute most of the commands rather breaking down the stuff and allowing staff to execute them?**
