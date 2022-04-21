@@ -16,6 +16,10 @@ Well, this is a basic welcome system which will wish a user when he/she/they joi
 
 <br>
 
+* ```-wget``` <br><br> This command is used to display how the new member on join will be greeted
+
+<br>
+
 * ```-wstop``` <br><br> This command when used in any channel of your server will stop welcome system
 
 <br>
@@ -25,3 +29,7 @@ Well, this is a basic welcome system which will wish a user when he/she/they joi
 <br>
 
 * ```-wstatus``` <br><br> This command is used to fetch the current status of welcome system. If not welcome system is not configuered then it won't return anything!
+
+<br>
+
+* ```-wembed``` <br><br> This command is used to either stop or start the display of welcome message in embed or normal message!(**Default is embed**) <br><br>For changing current welcome message displayed to embed type<br>```-wembed yes```<br><br>For changing current welcome message displayed to normal message type<br>```-wembed no```
