@@ -51,3 +51,13 @@ Let me take an example, let's say you have like 20 servers and you daily post a 
 
 + ```-bchannel``` : to remove a sub channel of an agent (this can be only used by an agent and only to remove a sub channel associated to him/her)
 > How to run -bchannel command? <br><br> Just type following command in you main bump channel : <br> ```-bchannel -c channel_id``` <br><br> (Channel id of the channel the agent wants to remove)
+
+<br>
+
++ ```-bastop``` : can be used by an agent to remove his profile from bump system and all channels associated with him/her/they <br> **This can't be reverted so once you type that command all data related to your profile will be lost**
+
+<br>
+
+### How to not post in specific server using -bdump command?
+
+To not post in specific server first copy it's server id next type this command in your bump channel <br><br>```-bdump -g server_id message_you_want_to_post```
