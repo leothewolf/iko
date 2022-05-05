@@ -4,6 +4,10 @@
   <br>
 </div>
 
+ [![Support Server Invite](https://img.shields.io/badge/Discord-Support%20Server-7289da?logo=discord)](https://discord.gg/X7bZffdsQt)
+ [![Support Us](https://img.shields.io/badge/Donate-Support%20Iko-orange)](https://www.buymeacoffee.com/leothewolf)
+
+
 ## 🔎 Overview
 **Iko** is a multipurpose discord bot. Our aim is to provide all in one bot so you don't need to have multiple bots!
 
