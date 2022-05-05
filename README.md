@@ -7,6 +7,8 @@
 <br>
 
 <p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=951127063149039637&permissions=17448430608&scope=bot" alt="Support Server">
+        <img src="https://img.shields.io/static/v1?label=Invite&message=Iko&color=brightgreen" /></a>
   <a href="https://discord.gg/X7bZffdsQt" alt="Support Server">
         <img src="https://img.shields.io/badge/Discord-Support%20Server-7289da?logo=discord" /></a>
    <a href="https://www.buymeacoffee.com/leothewolf" alt="Support Us">
