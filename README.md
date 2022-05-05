@@ -4,8 +4,14 @@
   <br>
 </div>
 
- [![Support Server Invite](https://img.shields.io/badge/Discord-Support%20Server-7289da?logo=discord)](https://discord.gg/X7bZffdsQt)
- [![Support Us](https://img.shields.io/badge/Donate-Support%20Iko-orange)](https://www.buymeacoffee.com/leothewolf)
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/X7bZffdsQt" alt="Support Server">
+        <img src="https://img.shields.io/badge/Discord-Support%20Server-7289da?logo=discord" /></a>
+   <a href="https://www.buymeacoffee.com/leothewolf" alt="Support Us">
+        <img src="https://img.shields.io/badge/Donate-Support%20Iko-orange" /></a>
+</p>
 
 
 ## 🔎 Overview
